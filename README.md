@@ -1,2 +1,3 @@
 # calculadora-imc
- Projeto criado durante curso da Univesp
+
+Projeto criado durante curso do Senac em Abril/2023
