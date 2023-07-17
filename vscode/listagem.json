@@ -1,0 +1,32 @@
+[
+  {
+    "categoria": "Muito Abaixo do peso",
+    "imc_minimo": 0,
+    "imc_maximo": 17
+  },
+  {
+    "categoria": "Abaixo do peso",
+    "imc_minimo": 17,
+    "imc_maximo": 18.49
+  },
+  {
+    "categoria": "Peso Normal",
+    "imc_minimo": 18.5,
+    "imc_maximo": 24.99
+  },
+  {
+    "categoria": "Acima do Peso",
+    "imc_minimo": 25,
+    "imc_maximo": 29.99
+  },
+  {
+    "categoria": "Obesidade I",
+    "imc_minimo": 30,
+    "imc_maximo": 34.99
+  },
+  {
+    "categoria": "Obesidade II",
+    "imc_minimo": 35,
+    "imc_maximo": 99
+  }
+]
